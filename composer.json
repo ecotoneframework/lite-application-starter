@@ -1,0 +1,29 @@
+{
+  "name": "ecotone/lite-application-starter",
+  "license": "MIT",
+  "homepage": "https://docs.ecotone.tech",
+  "type": "library",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "authors": [
+    {
+      "name": "Dariusz Gafka",
+      "email": "dgafka.mail@gmail.com"
+    }
+  ],
+  "keywords": [
+    "starter",
+    "jms",
+    "ecotone",
+    "lite"
+  ],
+  "description": "Provides quickstart to build Ecotone Lite Application",
+  "autoload": {},
+  "autoload-dev": {},
+  "require": {
+    "ecotone/lite-application": "^1.0",
+    "ecotone/jms-converter": "^1.0"
+  },
+  "require-dev": {},
+  "extra": {}
+}
